@@ -102,7 +102,7 @@ export default {
 }
 
 .img {
-  padding-top: 80px;
+  padding-top: 30px;
 }
 
 .timer {
